@@ -186,3 +186,6 @@ def start(query):
 while True:
     start(takecommand())
     time.sleep(3)
+
+
+# this is random comment to check the gjit commit
